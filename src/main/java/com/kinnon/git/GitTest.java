@@ -15,7 +15,7 @@ public class GitTest {
         System.out.println("hot-fix Git444!");
         System.out.println("hot-fix Git444!");
         System.out.println("hot-fix Git444!");
-        System.out.println("拉取远程库");
+        System.out.println("拉取远程库·1111");
     }
 }
 
